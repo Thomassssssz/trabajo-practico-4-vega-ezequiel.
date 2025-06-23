@@ -1,0 +1,28 @@
+{
+  "name": "trabajo-practico-4-vega-ezequiel",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomassssssz/trabajo-practico-4-vega-ezequiel..git"
+  },
+  "keywords": [],
+  "type": "module", 
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomassssssz/trabajo-practico-4-vega-ezequiel./issues"
+  },
+  "homepage": "https://github.com/Thomassssssz/trabajo-practico-4-vega-ezequiel.#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10",
+    "sequelize": "^6.37.7"
+  }
+}
